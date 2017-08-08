@@ -1,0 +1,23 @@
+{
+    "name": "itarrow/rut-chile",
+    "description": "Validacion rut chileno",
+    "type": "component",
+    "homepage": "http://itarrow.cl",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "IT Arrow",
+            "url": "https://itarrow.cl"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "rut.js"
+            ],
+            "files": [
+                "rut.min.js"
+            ]
+        }
+    }
+}
