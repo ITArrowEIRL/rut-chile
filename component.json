@@ -1,0 +1,16 @@
+{
+    "name": "rut-chile",
+    "repo": "itarrow/rut-chile",
+    "version": "1.0.0",
+    "description": "Validacion rut chileno",
+    "license": "GPL",
+    "keywords": [
+        "rut",
+        "component"
+    ],
+    "main": "rut.js",
+    "scripts": [
+        "rut.js",
+        "rut.min.js"
+    ]
+}
