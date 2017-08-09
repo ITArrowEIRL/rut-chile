@@ -10,6 +10,9 @@
             "url": "https://itarrow.cl"
         }
     ],
+    "require": {
+        "php": "^5.6 || ^7.0"
+    },        
     "extra": {
         "component": {
             "scripts": [
